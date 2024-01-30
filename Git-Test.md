@@ -1,3 +1,7 @@
 # Инструкция по работе с Git
+## Имя и адрес
 1. git config --global user.name "*вводим имя*"
 2. git config --global user.email "*вводим адрес*"
+## Добавление файла
+- git add  - добавление файла
+- git commit -m "*комментарий*"
