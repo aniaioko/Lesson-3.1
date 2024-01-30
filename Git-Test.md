@@ -1,2 +1,3 @@
 # Инструкция по работе с Git
-git add - добавить версионность
+1. git config --global user.name "*вводим имя*"
+2. git config --global user.email "*вводим адрес*"
